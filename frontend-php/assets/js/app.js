@@ -1,0 +1,1 @@
+console.log('PSAF carregado com sucesso.');
